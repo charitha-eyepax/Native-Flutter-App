@@ -1,0 +1,3 @@
+[submodule "FlutterModule"]
+	path = FlutterModule
+	url = git@github.com:charitha-eyepax/FlutterModule.git
